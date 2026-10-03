@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://affimix.com/sitemap.xml
